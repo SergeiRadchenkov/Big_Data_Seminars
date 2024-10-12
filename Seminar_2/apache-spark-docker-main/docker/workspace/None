@@ -1,0 +1,23 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libpcre2-8-0
+The following NEW packages will be installed:
+  libpcre2-8-0 wget
+0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+Need to get 1115 kB of archives.
+After this operation, 3925 kB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian buster/main amd64 libpcre2-8-0 amd64 10.32-5 [213 kB]
+Get:2 http://deb.debian.org/debian buster/main amd64 wget amd64 1.20.1-1.1 [902 kB]
+Fetched 1115 kB in 1s (1262 kB/s)
+Selecting previously unselected package libpcre2-8-0:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 27731 files and directories currently installed.)
+Preparing to unpack .../libpcre2-8-0_10.32-5_amd64.deb ...
+Unpacking libpcre2-8-0:amd64 (10.32-5) ...
+Selecting previously unselected package wget.
+Preparing to unpack .../wget_1.20.1-1.1_amd64.deb ...
+Unpacking wget (1.20.1-1.1) ...
+Setting up libpcre2-8-0:amd64 (10.32-5) ...
+Setting up wget (1.20.1-1.1) ...
+Processing triggers for libc-bin (2.28-10) ...
